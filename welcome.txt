@@ -2,3 +2,5 @@ Hello
 this is branch demo
 this is branch master
 check the conflict
+this is demo
+this is confict
